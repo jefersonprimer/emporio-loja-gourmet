@@ -15,7 +15,7 @@ export const products: Product[] = catalog.products;
 export const initialStoreSettings: StoreSettings = {
   whatsappNumber: '5555984017985',
   whatsappDisplay: '(55) 98401-7985',
-  storeName: 'Cacau Show Store',
+  storeName: 'Empório Loja Gourmet',
   instagramHandle: 'emporio_fw',
   announcementText: 'CATÁLOGO CACAU SHOW · PEÇAS COM ATACADO PELA LOJA ORIGINAL · PEDIDO VIA WHATSAPP',
   showAnnouncement: true,
