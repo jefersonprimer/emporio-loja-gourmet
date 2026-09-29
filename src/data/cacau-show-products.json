@@ -1,0 +1,2629 @@
+{
+  "source": "https://www.cacaushow.com.br",
+  "generatedAt": "2026-09-28T23:29:12.168Z",
+  "total": 100,
+  "categories": {
+    "Chocolate": 34,
+    "Presentes": 28,
+    "Campanhas": 13,
+    "Lifestyle": 10,
+    "Cafeteria": 7,
+    "Biscoito": 7,
+    "Mesa e Cozinha": 1
+  },
+  "products": [
+    {
+      "id": "2006877",
+      "sku": "2006877",
+      "name": "Bebida Láctea laCreme Gold 250ml",
+      "slug": "bebida-lactea-lacreme-gold-250ml",
+      "url": "https://www.cacaushow.com.br/produto/bebida-l%C3%A1ctea-lacreme-gold-250ml-2006877.html",
+      "brand": "Cacau Show",
+      "category": "Campanhas",
+      "subcategory": "Bebidas Lácteas laCreme",
+      "categoryPath": [
+        "Campanhas",
+        "Bebidas Lácteas laCreme"
+      ],
+      "collection": "cafeteria",
+      "price": 8.99,
+      "listPrice": 9.99,
+      "discountPercentage": 10,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe3c6fb14/large/2006877_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe3c6fb14/large/2006877_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6b509444/large/2006877_1T.png"
+      ],
+      "rating": 3.7,
+      "available": true,
+      "description": "Bebida láctea laCreme Gold, inspirada no chocolate Gold, com o delicioso sabor de chocolate branco caramelizado."
+    },
+    {
+      "id": "1001706",
+      "sku": "1001706",
+      "name": "Bombons Petit Deli Pistache 78g",
+      "slug": "bombons-petit-deli-pistache-78g",
+      "url": "https://www.cacaushow.com.br/produto/bombons-petit-deli-pistache-78g-1001706.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "presentes",
+      "price": 19.99,
+      "listPrice": 21.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw63637517/large/1001706_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw63637517/large/1001706_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa856509a/large/1001706_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw70657fd5/large/1001706_1t.png"
+      ],
+      "rating": 3.2,
+      "available": false,
+      "description": "Descubra os Bombons Petit Deli Pistache da Cacau Show, bombons de chocolate ao leite e branco com recheio cremoso de pistache, um sabor que fica na memória!"
+    },
+    {
+      "id": "1002968",
+      "sku": "1002968",
+      "name": "Drageado Bytes ao Leite Crocante 100g",
+      "slug": "drageado-bytes-ao-leite-crocante-100g",
+      "url": "https://www.cacaushow.com.br/produto/drageado-bytes-ao-leite-crocante-100g-1002968.html",
+      "brand": "Bytes",
+      "category": "Chocolate",
+      "subcategory": "Bolinhas de Chocolate",
+      "categoryPath": [
+        "Chocolate",
+        "Bolinhas de Chocolate"
+      ],
+      "collection": "chocolate/bolinhas-de-chocolate",
+      "price": 18.99,
+      "listPrice": 19.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw24ce1f13/large/1002968_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw24ce1f13/large/1002968_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwdaa1c346/large/1002968_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "O Drageado Bytes ao Leite Crocante da Cacau Show oferece crocncia e sabor irresistível, combinando chocolate ao leite com um recheio crocante!"
+    },
+    {
+      "id": "1004196",
+      "sku": "1004196",
+      "name": "Lata Batmóvel com Trufas de Chocolate 108g",
+      "slug": "lata-batmovel-com-trufas-de-chocolate-108g",
+      "url": "https://www.cacaushow.com.br/produto/lata-batm%C3%B3vel-com-trufas-de-chocolate-108g-1004196.html",
+      "brand": "Crianças",
+      "category": "Campanhas",
+      "subcategory": "Dia das Crianças",
+      "categoryPath": [
+        "Campanhas",
+        "Dia das Crianças"
+      ],
+      "collection": "chocolate/trufas",
+      "price": 69.99,
+      "listPrice": 74.99,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw3e0e54cf/large/1004196_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw3e0e54cf/large/1004196_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw5440b33b/large/1004196_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb4fba266/large/1004196_1T.png"
+      ],
+      "rating": 3.8,
+      "available": true,
+      "description": "Uma lata inspirada no icnico Batmóvel, com 8 trufas de chocolate ao leite e muita diversão!"
+    },
+    {
+      "id": "1003352",
+      "sku": "1003352",
+      "name": "Lata de Biscoitos Tradicionais Sortidos 265g",
+      "slug": "lata-de-biscoitos-tradicionais-sortidos-265g",
+      "url": "https://www.cacaushow.com.br/produto/lata-de-biscoitos-tradicionais-sortidos-265g-1003352.html",
+      "brand": "Biscoiteria",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "biscoito",
+      "price": 79.99,
+      "listPrice": 84.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0b12102b/large/1003352_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0b12102b/large/1003352_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw46d9a4a0/large/1003352_1T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw16d133eb/large/1003352_2T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6fc6cc74/large/1003352_3T.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Delicie-se com a Lata de Biscoitos Tradicionais Sortidos, com biscoitos finos e crocantes, perfeita para momentos especiais."
+    },
+    {
+      "id": "2002118",
+      "sku": "2002118",
+      "name": "Pelúcia Chocomonstros Bartolomeu G",
+      "slug": "pelucia-chocomonstros-bartolomeu-g",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcia-chocomonstros-bartolomeu-g-2002118.html",
+      "brand": "Chocomonstros",
+      "category": "Presentes",
+      "subcategory": "Pelúcias e Ursinhos",
+      "categoryPath": [
+        "Presentes",
+        "Pelúcias e Ursinhos"
+      ],
+      "collection": "campanhas/infantis-cacau-show",
+      "price": 249.99,
+      "listPrice": null,
+      "discountPercentage": 0,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw854662ce/large/2002118_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw854662ce/large/2002118_1.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Conheça a Pelúcia Chocomonstros Bartolomeu G, uma companhia fofa e divertida da Cacau Show, ideal para presentear, colecionar e abraçar."
+    },
+    {
+      "id": "2006249",
+      "sku": "2006249",
+      "name": "Pelúcias Chocomigos Surpresa",
+      "slug": "pelucias-chocomigos-surpresa",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcias-chocomigos-surpresa-2006249.html",
+      "brand": "Cacau Show",
+      "category": "Lifestyle",
+      "subcategory": "Pelúcias Chocomigos",
+      "categoryPath": [
+        "Lifestyle",
+        "Pelúcias Chocomigos"
+      ],
+      "collection": "lifestyle",
+      "price": 39.99,
+      "listPrice": 42.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc62d5520/large/2006249.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc62d5520/large/2006249.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw74da2995/large/2006249_7T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwcf0e4f3f/large/2006249_6T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb22f1c61/large/2006249_5T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwcaedf0d8/large/2006249_4T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa523fabf/large/2006249_3T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6127c757/large/2006249_2T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw572e572a/large/2006249_1T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw15b58e59/large/2006249_8.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Pelúcias Chocomigos em 8 modelos diferentes para encantar e surpreender. Cada embalagem contém 1 pelúcia surpresa, tornando a experincia ainda mais divertida."
+    },
+    {
+      "id": "1004079",
+      "sku": "1004079",
+      "name": "Tablete de Chocolate Intenso Bendito Cacao 80% 100g",
+      "slug": "tablete-de-chocolate-intenso-bendito-cacao-80-100g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-de-chocolate-intenso-bendito-cacao-80%25-100g-1004079.html",
+      "brand": "Bendito Cacao",
+      "category": "Campanhas",
+      "subcategory": "Bendito Cacao",
+      "categoryPath": [
+        "Campanhas",
+        "Bendito Cacao"
+      ],
+      "collection": "nossas-marcas/bendito-cacao",
+      "price": 27.99,
+      "listPrice": 29.99,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7bbb5769/large/1004079_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7bbb5769/large/1004079_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw70df03fa/large/1004079_1T.png"
+      ],
+      "rating": 3.8,
+      "available": false,
+      "description": "Barra de chocolate 80% cacau, com sabor intenso e marcante. Perfeito para quem aprecia chocolates com maior concentração de cacau e sabor mais amargo."
+    },
+    {
+      "id": "1002638",
+      "sku": "1002638",
+      "name": "Tablete laCreme de Chocolate ao Leite 100g",
+      "slug": "tablete-lacreme-de-chocolate-ao-leite-100g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-lacreme-de-chocolate-ao-leite-100g-1002638.html",
+      "brand": "laCreme",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate",
+      "price": 19.99,
+      "listPrice": 21.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw95674abd/large/1002638_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw95674abd/large/1002638_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw75a3c853/large/1002638_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "O Tablete laCreme de Chocolate ao Leite, cremoso e irresistível, feito com o famoso chocolate ao leite laCreme, que derrete na boca e encanta o paladar!"
+    },
+    {
+      "id": "1002636",
+      "sku": "1002636",
+      "name": "Tablete laCreme de Chocolate Branco 20g",
+      "slug": "tablete-lacreme-de-chocolate-branco-20g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-lacreme-de-chocolate-branco-20g-1002636.html",
+      "brand": "laCreme",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate/tabletes-e-barras",
+      "price": 4.99,
+      "listPrice": 5.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd1df6de2/large/1002636_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd1df6de2/large/1002636_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw41cdb008/large/1002636_1t.png"
+      ],
+      "rating": 3.5,
+      "available": true,
+      "description": "Delicie-se com o Tablete laCreme de Chocolate Branco, perfeito para quem ama o sabor suave e cremoso do chocolate branco. Ideal para estar sempre com voc!"
+    },
+    {
+      "id": "2002832",
+      "sku": "2002832",
+      "name": "Pelúcia de Urso Marrom G",
+      "slug": "pelucia-de-urso-marrom-g",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcia-de-urso-marrom-g-2002832.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Pelúcias e Ursinhos",
+      "categoryPath": [
+        "Presentes",
+        "Pelúcias e Ursinhos"
+      ],
+      "collection": "para-compartilhar/kits-e-presentes",
+      "price": 99.99,
+      "listPrice": 109.99,
+      "discountPercentage": 9,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw680da5f0/large/2002832_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw680da5f0/large/2002832_1.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Conheça a Pelúcia de Urso Marrom G da Cacau Show, uma escolha fofa e clássica, perfeita para presentear, colecionar e abraçar."
+    },
+    {
+      "id": "2005928",
+      "sku": "2005928",
+      "name": "Pin de Fondue Cacau Show",
+      "slug": "pin-de-fondue-cacau-show",
+      "url": "https://www.cacaushow.com.br/produto/pin-de-fondue-cacau-show-2005928.html",
+      "brand": "Cacau Show",
+      "category": "Lifestyle",
+      "subcategory": null,
+      "categoryPath": [
+        "Lifestyle"
+      ],
+      "collection": "lifestyle/uso-pessoal",
+      "price": 9.99,
+      "listPrice": 11.99,
+      "discountPercentage": 17,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa45e5747/large/2005928_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa45e5747/large/2005928_1.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "O Pin de Fondue é feito em material dourado, perfeito para dar um toque de charme e personalidade aos seus itens."
+    },
+    {
+      "id": "1002820",
+      "sku": "1002820",
+      "name": "Tablete laCreme de Chocolate Zero Lactose 100g",
+      "slug": "tablete-lacreme-de-chocolate-zero-lactose-100g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-lacreme-de-chocolate-zero-lactose-100g-1002820.html",
+      "brand": "laCreme",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "nossas-marcas/lacreme",
+      "price": 24.99,
+      "listPrice": 26.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9b2a8fad/large/1002820_3.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9b2a8fad/large/1002820_3.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1ba11c44/large/1002820_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "O Tablete laCreme de Chocolate Zero Lactose é chocolate ao leite cremoso sem lactose, perfeito para quem não quer abrir mão do sabor!"
+    },
+    {
+      "id": "1000137",
+      "sku": "1000137",
+      "name": "Marshmallow MonteBello Tradicional 90g",
+      "slug": "marshmallow-montebello-tradicional-90g",
+      "url": "https://www.cacaushow.com.br/produto/marshmallow-montebello-tradicional-90g-1000137.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Marshmallow",
+      "categoryPath": [
+        "Chocolate",
+        "Marshmallow"
+      ],
+      "collection": "chocolate/marshmallow",
+      "price": 16.99,
+      "listPrice": 17.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa5061f7c/large/1000137_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa5061f7c/large/1000137_2.png"
+      ],
+      "rating": 3.9,
+      "available": false,
+      "description": "Experimente o Marshmallow MonteBello Tradicional da Cacau Show: textura leve e macia, com um sabor suave, ideal para adoçar qualquer momento de forma deliciosa."
+    },
+    {
+      "id": "2006505",
+      "sku": "2006505",
+      "name": "Caneca Cerveja Amanteigada Harry Potter 420ml",
+      "slug": "caneca-cerveja-amanteigada-harry-potter-420ml",
+      "url": "https://www.cacaushow.com.br/produto/caneca-cerveja-amanteigada-harry-potter-420ml-2006505.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Canecas",
+      "categoryPath": [
+        "Presentes",
+        "Canecas"
+      ],
+      "collection": "presentes/canecas",
+      "price": 79.99,
+      "listPrice": 89.99,
+      "discountPercentage": 11,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw455af962/large/2006505_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw455af962/large/2006505_1.png"
+      ],
+      "rating": 3.5,
+      "available": false,
+      "description": "Viva a experincia da Caneca Harry Potter de metal 420 ml. Beba sua bebida com estilo no universo mágico!"
+    },
+    {
+      "id": "1001867",
+      "sku": "1001867",
+      "name": "Creme laCreme Slack ao Leite 315g",
+      "slug": "creme-lacreme-slack-ao-leite-315g",
+      "url": "https://www.cacaushow.com.br/produto/creme-lacreme-slack-ao-leite-315g-1001867.html",
+      "brand": "laCreme",
+      "category": "Chocolate",
+      "subcategory": "Cremes e Slacks",
+      "categoryPath": [
+        "Chocolate",
+        "Cremes e Slacks"
+      ],
+      "collection": "chocolate/cremes-e-slacks",
+      "price": 34.99,
+      "listPrice": 37.49,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0c85e145/large/1001867_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0c85e145/large/1001867_1.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Creme laCreme Slack ao Leite Cacau Show, creme sabor chocolate e com muita cremosidade, perfeito para passar, rechear ou saborear puro."
+    },
+    {
+      "id": "2000004",
+      "sku": "2000004",
+      "name": "Livro Bean to Heart: Do Grão ao Coração Alê Costa",
+      "slug": "livro-bean-to-heart-do-grao-ao-coracao-al-costa",
+      "url": "https://www.cacaushow.com.br/produto/livro-bean-to-heart%3A-do-gr%C3%A3o-ao-cora%C3%A7%C3%A3o-al%C3%AA-costa-2000004.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Livros",
+      "categoryPath": [
+        "Presentes",
+        "Livros"
+      ],
+      "collection": "presentes/livros",
+      "price": 129.99,
+      "listPrice": 139.99,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7b5228c4/large/2000004_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7b5228c4/large/2000004_1.png"
+      ],
+      "rating": 3.3,
+      "available": false,
+      "description": "Em busca de conhecimento e conexão com a cultura do Cacau, Alexandre Costa embarca em viagem inspiradora. Conheça o livro Bean to Heart: Do Grão ao Coração."
+    },
+    {
+      "id": "1004027",
+      "sku": "1004027",
+      "name": "Fondue de Chocolate ao Leite Cacau Show 250g",
+      "slug": "fondue-de-chocolate-ao-leite-cacau-show-250g",
+      "url": "https://www.cacaushow.com.br/produto/fondue-de-chocolate-ao-leite-cacau-show-250g-1004027.html",
+      "brand": "Cacau Show",
+      "category": "Cafeteria",
+      "subcategory": "Fondues e Sobremesas",
+      "categoryPath": [
+        "Cafeteria",
+        "Fondues e Sobremesas"
+      ],
+      "collection": "cafeteria",
+      "price": 54.99,
+      "listPrice": 59.99,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd3e984cc/large/1004027_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd3e984cc/large/1004027_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwabab9b51/large/1004027_1T.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Fondue de Chocolate ao leite cremoso e irresistível, perfeito para compartilhar e combinar com frutas, wafers e biscoitos em momentos especiais."
+    },
+    {
+      "id": "1002792",
+      "sku": "1002792",
+      "name": "Bombons Petit Deli Brownie 79g",
+      "slug": "bombons-petit-deli-brownie-79g",
+      "url": "https://www.cacaushow.com.br/produto/bombons-petit-deli-brownie-79g-1002792.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "presentes",
+      "price": 19.99,
+      "listPrice": 21.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw231cfd22/large/1002792_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw231cfd22/large/1002792_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw19862337/large/1002792_1t.png"
+      ],
+      "rating": 3.8,
+      "available": false,
+      "description": "Conheça os Bombons Petit Deli Brownie, uma combinação irresistível de chocolate ao leite com recheio cremoso de brownie, perfeitos para momentos especiais ou presentes."
+    },
+    {
+      "id": "1002996",
+      "sku": "1002996",
+      "name": "Drageado Bytes de Chocolate Branco Crocante 100g",
+      "slug": "drageado-bytes-de-chocolate-branco-crocante-100g",
+      "url": "https://www.cacaushow.com.br/produto/drageado-bytes-de-chocolate-branco-crocante-100g-1002996.html",
+      "brand": "Bytes",
+      "category": "Chocolate",
+      "subcategory": "Bolinhas de Chocolate",
+      "categoryPath": [
+        "Chocolate",
+        "Bolinhas de Chocolate"
+      ],
+      "collection": "chocolate/bolinhas-de-chocolate",
+      "price": 18.99,
+      "listPrice": 19.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwfc3ee787/large/1002996_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwfc3ee787/large/1002996_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8570d7f4/large/1002996_1t.png"
+      ],
+      "rating": 3.4,
+      "available": true,
+      "description": "Drageado Bytes de Chocolate Branco Crocante: crocncia e sabor em cada mordida. Escolha perfeita para lanches ou para compartilhar com amigos!"
+    },
+    {
+      "id": "1004201",
+      "sku": "1004201",
+      "name": "Kit de Pincéis Meninas Superpoderosas com Bombons 115g",
+      "slug": "kit-de-pinceis-meninas-superpoderosas-com-bombons-115g",
+      "url": "https://www.cacaushow.com.br/produto/kit-de-pinc%C3%A9is-meninas-superpoderosas-com-bombons-115g-1004201.html",
+      "brand": "Crianças",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "chocolate/trufas",
+      "price": 79.99,
+      "listPrice": 89.99,
+      "discountPercentage": 11,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9a4f6500/large/1004201_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9a4f6500/large/1004201_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw13a292e3/large/1004201_1T.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Um kit divertido e cheio de personalidade com pincéis temáticos das Meninas Superpoderosas e deliciosos bombons sabor brigadeiro."
+    },
+    {
+      "id": "1004019",
+      "sku": "1004019",
+      "name": "Cookies Banhado com Gotas de Chocolate ao Leite 140g",
+      "slug": "cookies-banhado-com-gotas-de-chocolate-ao-leite-140g",
+      "url": "https://www.cacaushow.com.br/produto/cookies-banhado-com-gotas-de-chocolate-ao-leite-140g-1004019.html",
+      "brand": "Biscoiteria",
+      "category": "Biscoito",
+      "subcategory": "Cookies",
+      "categoryPath": [
+        "Biscoito",
+        "Cookies"
+      ],
+      "collection": "biscoito",
+      "price": 24.99,
+      "listPrice": 26.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw24244847/large/1004019_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw24244847/large/1004019_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc0eed480/large/1003087_1t.png"
+      ],
+      "rating": 3.2,
+      "available": false,
+      "description": "Cookies crocantes, com gotas de chocolate ao leite e uma deliciosa camada de chocolate."
+    },
+    {
+      "id": "2002124",
+      "sku": "2002124",
+      "name": "Pelúcia Chocomonstros Jubileu G",
+      "slug": "pelucia-chocomonstros-jubileu-g",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcia-chocomonstros-jubileu-g-2002124.html",
+      "brand": "Chocomonstros",
+      "category": "Presentes",
+      "subcategory": "Pelúcias e Ursinhos",
+      "categoryPath": [
+        "Presentes",
+        "Pelúcias e Ursinhos"
+      ],
+      "collection": "campanhas/infantis-cacau-show",
+      "price": 249.99,
+      "listPrice": null,
+      "discountPercentage": 0,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6856f0dd/large/2002124_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6856f0dd/large/2002124_1.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "A Pelúcia Chocomonstros Jubileu G é um companheiro grande e fofinho, perfeito para abraçar e decorar. Um presente divertido que encanta todas as idades!"
+    },
+    {
+      "id": "2006867",
+      "sku": "2006867",
+      "name": "Kit Impala Rosa com Esmalte e Gloss Labial",
+      "slug": "kit-impala-rosa-com-esmalte-e-gloss-labial",
+      "url": "https://www.cacaushow.com.br/produto/kit-impala-rosa-com-esmalte-e-gloss-labial-2006867.html",
+      "brand": "Cacau Show",
+      "category": "Lifestyle",
+      "subcategory": "Impala Cacau Show",
+      "categoryPath": [
+        "Lifestyle",
+        "Impala Cacau Show"
+      ],
+      "collection": "lifestyle",
+      "price": 36.99,
+      "listPrice": 38.49,
+      "discountPercentage": 4,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1bb8e2c4/large/2006867_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1bb8e2c4/large/2006867_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw952458a4/large/2006867_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8fbd7751/large/2006867_3.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "O Kit Impala Rosa com Esmalte e Gloss Labial reúne dois itens para sua rotina de beleza. Produto exclusivo disponível em lojas parceiras e perfumarias."
+    },
+    {
+      "id": "1004084",
+      "sku": "1004084",
+      "name": "Tablete de Chocolate Bendito Cacao 55% com Cupuaçu 100g",
+      "slug": "tablete-de-chocolate-bendito-cacao-55-com-cupuacu-100g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-de-chocolate-bendito-cacao-55%25-com-cupua%C3%A7u-100g-1004084.html",
+      "brand": "Bendito Cacao",
+      "category": "Campanhas",
+      "subcategory": "Bendito Cacao",
+      "categoryPath": [
+        "Campanhas",
+        "Bendito Cacao"
+      ],
+      "collection": "nossas-marcas/bendito-cacao",
+      "price": 27.99,
+      "listPrice": 29.99,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9776d6ef/large/1004084_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9776d6ef/large/1004084_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw21b592f2/large/1004084_1T.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Barra de chocolate 55% cacau com cupuaçu, uma combinação autenticamente brasileira que une a intensidade do cacau ao sabor marcante da fruta."
+    },
+    {
+      "id": "1002947",
+      "sku": "1002947",
+      "name": "Tablete laCreme de Chocolate ao Leite 5g",
+      "slug": "tablete-lacreme-de-chocolate-ao-leite-5g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-lacreme-de-chocolate-ao-leite-5g-1002947.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate",
+      "price": 1.29,
+      "listPrice": 1.39,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw583eeb65/large/1002947_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw583eeb65/large/1002947_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw87f5a9a5/large/1002947_1t.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Desfrute do Tablete laCreme, um chocolate ao leite perfeito para te acompanhar no dia a dia, a combinação ideal de cremosidade e muito sabor!"
+    },
+    {
+      "id": "1002601",
+      "sku": "1002601",
+      "name": "Tablete ao Leite com Castanha de Caju 20g",
+      "slug": "tablete-ao-leite-com-castanha-de-caju-20g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-ao-leite-com-castanha-de-caju-20g-1002601.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate/tabletes-e-barras",
+      "price": 4.99,
+      "listPrice": 5.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw128b93c7/large/1002601_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw128b93c7/large/1002601_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwbe29dffc/large/1002601_1t.png"
+      ],
+      "rating": 4.7,
+      "available": true,
+      "description": "Descubra o Tablete ao Leite com Castanha de Caju, que combina a cremosidade do chocolate ao leite com a crocncia das castanhas, sendo uma ótima opção para se ter durante o dia."
+    },
+    {
+      "id": "1002631",
+      "sku": "1002631",
+      "name": "Caixa de Bombons Mini Show LaNut 108g",
+      "slug": "caixa-de-bombons-mini-show-lanut-108g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-mini-show-lanut-108g-1002631.html",
+      "brand": "Lanut",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "para-compartilhar/kits-e-presentes",
+      "price": 39.99,
+      "listPrice": 42.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw2666003b/large/1002631_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw2666003b/large/1002631_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw5a6688b0/large/1002631_1t.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "A Caixa de Bombons Mini Show LaNut tem bombons de chocolate ao leite com recheio cremoso de avelã. Sabor clássico e refinado!"
+    },
+    {
+      "id": "2005974",
+      "sku": "2005974",
+      "name": "Garrafa Térmica Verde Cacau Show",
+      "slug": "garrafa-termica-verde-cacau-show",
+      "url": "https://www.cacaushow.com.br/produto/garrafa-t%C3%A9rmica-verde-cacau-show-2005974.html",
+      "brand": "Cacau Show",
+      "category": "Lifestyle",
+      "subcategory": "Copos e Garrafas",
+      "categoryPath": [
+        "Lifestyle",
+        "Copos e Garrafas"
+      ],
+      "collection": "lifestyle/uso-pessoal",
+      "price": 89.99,
+      "listPrice": 99.99,
+      "discountPercentage": 10,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe8996575/large/2005974_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe8996575/large/2005974_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwf6083976/large/2005974_2.png"
+      ],
+      "rating": 3.4,
+      "available": false,
+      "description": "A Garrafa Térmica Verde Cacau Show traz praticidade e estilo para o seu dia a dia. Feita em aço inox, é ideal para manter sua bebida favorita durante a rotina."
+    },
+    {
+      "id": "2006878",
+      "sku": "2006878",
+      "name": "Bebida Láctea laCreme Ao Leite 250ml",
+      "slug": "bebida-lactea-lacreme-ao-leite-250ml",
+      "url": "https://www.cacaushow.com.br/produto/bebida-l%C3%A1ctea-lacreme-ao-leite-250ml-2006878.html",
+      "brand": "Cacau Show",
+      "category": "Campanhas",
+      "subcategory": "Bebidas Lácteas laCreme",
+      "categoryPath": [
+        "Campanhas",
+        "Bebidas Lácteas laCreme"
+      ],
+      "collection": "nossas-marcas/lacreme",
+      "price": 8.99,
+      "listPrice": 9.99,
+      "discountPercentage": 10,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe0d2036d/large/2006878_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe0d2036d/large/2006878_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc52ce044/large/2006878_1T.png"
+      ],
+      "rating": 4.8,
+      "available": true,
+      "description": "Bebida láctea laCreme Ao Leite com o delicioso sabor de chocolate ao leite, cremosa e irresistível."
+    },
+    {
+      "id": "1004074",
+      "sku": "1004074",
+      "name": "S’mores de Marshmallow com Chocolate e Speculoos 30g",
+      "slug": "s-mores-de-marshmallow-com-chocolate-e-speculoos-30g",
+      "url": "https://www.cacaushow.com.br/produto/s%E2%80%99mores-de-marshmallow-com-chocolate-e-speculoos-30g-1004074.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Marshmallow",
+      "categoryPath": [
+        "Chocolate",
+        "Marshmallow"
+      ],
+      "collection": "chocolate/marshmallow",
+      "price": 7.99,
+      "listPrice": 8.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw054e1e8c/large/1004074_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw054e1e8c/large/1004074_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa529c3e1/large/1004074_2.jpg",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw13890513/large/1004074_1T.png"
+      ],
+      "rating": 4.3,
+      "available": false,
+      "description": "Marshmallow macio coberto com chocolate e uma deliciosa camada de biscoito speculoos, trazendo sabor e crocncia na medida certa."
+    },
+    {
+      "id": "2004387",
+      "sku": "2004387",
+      "name": "Caneca Miau Branca e Preta 300ml",
+      "slug": "caneca-miau-branca-e-preta-300ml",
+      "url": "https://www.cacaushow.com.br/produto/caneca-miau-branca-e-preta%C2%A0300ml-2004387.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Canecas",
+      "categoryPath": [
+        "Presentes",
+        "Canecas"
+      ],
+      "collection": "presentes/canecas",
+      "price": 29.99,
+      "listPrice": 31.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd1e2b958/large/2004387_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd1e2b958/large/2004387_1.png"
+      ],
+      "rating": 3.1,
+      "available": false,
+      "description": "Caneca Miau Branca e Preta: charmosa e divertida, com estampa de gato. Perfeita para uso diário e para quem ama estilo e praticidade. Ótima opção de presente!"
+    },
+    {
+      "id": "1003639",
+      "sku": "1003639",
+      "name": "Slack Pistache 290g",
+      "slug": "slack-pistache-290g",
+      "url": "https://www.cacaushow.com.br/produto/slack-pistache-290g-1003639.html",
+      "brand": "LaNut",
+      "category": "Chocolate",
+      "subcategory": "Cremes e Slacks",
+      "categoryPath": [
+        "Chocolate",
+        "Cremes e Slacks"
+      ],
+      "collection": "chocolate/cremes-e-slacks",
+      "price": 64.99,
+      "listPrice": 69.99,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwfef96cf0/large/1003639_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwfef96cf0/large/1003639_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9923e0b6/large/1003510_1t.png"
+      ],
+      "rating": 4.9,
+      "available": true,
+      "description": "Descubra o Slack Pistache da Cacau Show, esse lanche sofisticado combina o sabor delicado do pistache, com a textura suave do creme, uma junção irresistível!"
+    },
+    {
+      "id": "1002538",
+      "sku": "1002538",
+      "name": "Sorvete Cookies'N Cream 70g",
+      "slug": "sorvete-cookies-n-cream-70g",
+      "url": "https://www.cacaushow.com.br/produto/sorvete-cookies%27n-cream-70g-1002538.html",
+      "brand": "Cacau Show",
+      "category": "Cafeteria",
+      "subcategory": "Sorvetes e Gelatos",
+      "categoryPath": [
+        "Cafeteria",
+        "Sorvetes e Gelatos"
+      ],
+      "collection": "cafeteria",
+      "price": 17.99,
+      "listPrice": 18.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw5bc6988e/large/1002538_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw5bc6988e/large/1002538_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw10237646/large/1002538_1t.png"
+      ],
+      "rating": 4.6,
+      "available": false,
+      "description": "Descubra o Sorvete Cookies'N Cream, uma combinação deliciosa de sorvete sabor leite com gotas de cookies, perfeita para um momento refrescante e saboroso."
+    },
+    {
+      "id": "1000421",
+      "sku": "1000421",
+      "name": "Tablete ao Leite Chocoarte Parabéns 40g",
+      "slug": "tablete-ao-leite-chocoarte-parabens-40g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-ao-leite-chocoarte-parab%C3%A9ns-40g-1000421.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "presentes",
+      "price": 15.99,
+      "listPrice": 16.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwba64b119/large/1000421_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwba64b119/large/1000421_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc5065713/large/1000421_1t.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "O Tablete ao Leite Chocoarte Parabéns celebra conquistas com o sabor do chocolate ao leite e uma mensagem especial! Aproveite para demonstrar seu carinho e afeto!"
+    },
+    {
+      "id": "1003040",
+      "sku": "1003040",
+      "name": "Drageado Bytes ao Leite e Branco 100g",
+      "slug": "drageado-bytes-ao-leite-e-branco-100g",
+      "url": "https://www.cacaushow.com.br/produto/drageado-bytes-ao-leite-e-branco-100g-1003040.html",
+      "brand": "Bytes",
+      "category": "Chocolate",
+      "subcategory": "Bolinhas de Chocolate",
+      "categoryPath": [
+        "Chocolate",
+        "Bolinhas de Chocolate"
+      ],
+      "collection": "chocolate/bolinhas-de-chocolate",
+      "price": 18.99,
+      "listPrice": 19.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd0bec8d4/large/1003040_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd0bec8d4/large/1003040_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwf6c5b513/large/1003040_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Desfrute do Drageado Bytes ao Leite e Branco da Cacau Show: bolinhas de chocolate ao leite e branco crocantes, oferecendo um snack prático e delicioso a qualquer hora."
+    },
+    {
+      "id": "1004163",
+      "sku": "1004163",
+      "name": "Trufa ao Leite Sabor Speculoos",
+      "slug": "trufa-ao-leite-sabor-speculoos",
+      "url": "https://www.cacaushow.com.br/produto/trufa-ao-leite-sabor-speculoos-1004163.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate/trufas",
+      "price": 4.99,
+      "listPrice": 5.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw79e0217f/large/1004163_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw79e0217f/large/1004163_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw77f69882/large/1004163_1T.jpg"
+      ],
+      "rating": 3.2,
+      "available": true,
+      "description": "Uma deliciosa combinação de chocolate ao leite com um recheio macio e saboroso de Speculoos, marcado pelo o intenso sabor de especiarias."
+    },
+    {
+      "id": "1003343",
+      "sku": "1003343",
+      "name": "Cookies de Limão 140g",
+      "slug": "cookies-de-limao-140g",
+      "url": "https://www.cacaushow.com.br/produto/cookies-de-lim%C3%A3o-140g-1003343.html",
+      "brand": "Cacau Show",
+      "category": "Biscoito",
+      "subcategory": "Cookies",
+      "categoryPath": [
+        "Biscoito",
+        "Cookies"
+      ],
+      "collection": "biscoito",
+      "price": 24.99,
+      "listPrice": 26.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw3ddcba37/large/1003343_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw3ddcba37/large/1003343_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd31ab196/large/1003343_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Os Cookies de Limão da Cacau Show oferecem sabor refrescante e crocante. Perfeitos para lanches, cada mordida traz um toque cítrico e delicioso!"
+    },
+    {
+      "id": "2002123",
+      "sku": "2002123",
+      "name": "Pelúcia Chocomonstros Adamastor G",
+      "slug": "pelucia-chocomonstros-adamastor-g",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcia-chocomonstros-adamastor-g-2002123.html",
+      "brand": "Chocomonstros",
+      "category": "Presentes",
+      "subcategory": "Pelúcias e Ursinhos",
+      "categoryPath": [
+        "Presentes",
+        "Pelúcias e Ursinhos"
+      ],
+      "collection": "campanhas/infantis-cacau-show",
+      "price": 249.99,
+      "listPrice": null,
+      "discountPercentage": 0,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8364276c/large/2002123_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8364276c/large/2002123_1.png"
+      ],
+      "rating": 4.7,
+      "available": true,
+      "description": "Descubra a Pelúcia Chocomonstros Adamastor G, uma companhia fofa e divertida da Cacau Show, perfeito para presentear, colecionar e abraçar."
+    },
+    {
+      "id": "2005549",
+      "sku": "2005549",
+      "name": "Kit 4 Porta-Copos Off White Bendito Cacao",
+      "slug": "kit-4-porta-copos-off-white-bendito-cacao",
+      "url": "https://www.cacaushow.com.br/produto/kit-4-porta-copos-off-white-bendito-cacao-2005549.html",
+      "brand": "Bendito Cacao",
+      "category": "Mesa e Cozinha",
+      "subcategory": "Cozinha",
+      "categoryPath": [
+        "Mesa e Cozinha",
+        "Cozinha"
+      ],
+      "collection": "lifestyle",
+      "price": 29.99,
+      "listPrice": 34.99,
+      "discountPercentage": 14,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7aa4950d/large/2005549_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7aa4950d/large/2005549_1.png"
+      ],
+      "rating": 4.2,
+      "available": false,
+      "description": "Kit 4 Porta-Copos Off White Bendito Cacao. Sofisticação e leveza para servir com estilo."
+    },
+    {
+      "id": "1002948",
+      "sku": "1002948",
+      "name": "Tablete Bendito Cacao de Chocolate 70% Cacau 5g",
+      "slug": "tablete-bendito-cacao-de-chocolate-70-cacau-5g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-bendito-cacao-de-chocolate-70%25-cacau-5g-1002948.html",
+      "brand": "Bendito Cacao",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "nossas-marcas/bendito-cacao",
+      "price": 1.29,
+      "listPrice": 1.39,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw08802626/large/1002948_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw08802626/large/1002948_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw2f660c5c/large/1002948_1t.png"
+      ],
+      "rating": 3.1,
+      "available": false,
+      "description": "Desfrute do Tablete Bendito Cacao de Chocolate 70% Cacau, uma experincia intensa e sofisticada para os apreciadores do sabor do cacau. Esse tablete vai surpreender os paladares!"
+    },
+    {
+      "id": "1002639",
+      "sku": "1002639",
+      "name": "Trufa ao Leite de Maracujá 30g",
+      "slug": "trufa-ao-leite-de-maracuja-30g",
+      "url": "https://www.cacaushow.com.br/produto/trufa-ao-leite-de-maracuj%C3%A1-30g-1002639.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate",
+      "price": 4.99,
+      "listPrice": 5.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwef77f514/large/1002639_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwef77f514/large/1002639_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe73bd447/large/1002639_2T.png"
+      ],
+      "rating": 3.8,
+      "available": true,
+      "description": "Experimente a Trufa ao Leite de Maracujá da Cacau Show, a combinação irresistível do chocolate ao leite com um recheio cremoso de maracujá. Um doce que encanta!"
+    },
+    {
+      "id": "1002882",
+      "sku": "1002882",
+      "name": "Tablete Dreams Torta de Maracujá 130g",
+      "slug": "tablete-dreams-torta-de-maracuja-130g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-dreams-torta-de-maracuj%C3%A1-130g-1002882.html",
+      "brand": "Dreams",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate/tabletes-e-barras",
+      "price": 24.99,
+      "listPrice": 26.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1bf0f3ac/large/1002882_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1bf0f3ac/large/1002882_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6a6228d7/large/1002882_1t.png"
+      ],
+      "rating": 3.8,
+      "available": true,
+      "description": "O Tablete Dreams Torta de Maracujá da Cacau Show combina o delicioso chocolate ao leite com um recheio cremoso de maracujá e pedaços crocantes de biscoito."
+    },
+    {
+      "id": "1002783",
+      "sku": "1002783",
+      "name": "Caixa com Bombons Bellas's ao Leite 145g",
+      "slug": "caixa-com-bombons-bellas-s-ao-leite-145g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-com-bombons-bellas%27s-ao-leite-145g-1002783.html",
+      "brand": "Bella's",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "para-compartilhar/kits-e-presentes",
+      "price": 29.99,
+      "listPrice": 31.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw3f7c0988/large/1002783_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw3f7c0988/large/1002783_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw815b86cf/large/1002783_1t.png"
+      ],
+      "rating": 3.8,
+      "available": true,
+      "description": "A Caixa com Bombons Bellas's ao Leite da Cacau Show é uma encantadora caixa de bombons de chocolate ao leite, ideal para o dia a dia ou simplesmente para presentear!"
+    },
+    {
+      "id": "2005981",
+      "sku": "2005981",
+      "name": "Chaveiro de Morango Cacau Show",
+      "slug": "chaveiro-de-morango-cacau-show",
+      "url": "https://www.cacaushow.com.br/produto/chaveiro-de-morango-cacau-show-2005981.html",
+      "brand": "Bendito Cacao",
+      "category": "Lifestyle",
+      "subcategory": "Chaveiros e Pins",
+      "categoryPath": [
+        "Lifestyle",
+        "Chaveiros e Pins"
+      ],
+      "collection": "lifestyle/uso-pessoal",
+      "price": 14.99,
+      "listPrice": 16.99,
+      "discountPercentage": 12,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw3cea4f6a/large/2005981_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw3cea4f6a/large/2005981_1.png"
+      ],
+      "rating": 4.2,
+      "available": true,
+      "description": "O Chaveiro de Morango Cacau Show é um detalhe encantador para personalizar e transformar seus acessórios."
+    },
+    {
+      "id": "1003368",
+      "sku": "1003368",
+      "name": "Caixa de Bombons laCreme Kids 108g",
+      "slug": "caixa-de-bombons-lacreme-kids-108g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-lacreme-kids-108g-1003368.html",
+      "brand": "laCreme",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "nossas-marcas/lacreme",
+      "price": 29.99,
+      "listPrice": 31.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwda3cae2d/large/1003368_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwda3cae2d/large/1003368_1.png"
+      ],
+      "rating": 3.8,
+      "available": true,
+      "description": "A Caixa de Bombons laCreme Kids vai conquistar seu paladar! Com bombons de chocolate ao leite com recheio de leite, essa caixa oferece uma experincia de sabor irresistível!"
+    },
+    {
+      "id": "1001335",
+      "sku": "1001335",
+      "name": "Marshmallow MonteBello Mousse de Maracujá 90g",
+      "slug": "marshmallow-montebello-mousse-de-maracuja-90g",
+      "url": "https://www.cacaushow.com.br/produto/marshmallow-montebello-mousse-de-maracuj%C3%A1-90g-1001335.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Marshmallow",
+      "categoryPath": [
+        "Chocolate",
+        "Marshmallow"
+      ],
+      "collection": "chocolate/marshmallow",
+      "price": 16.99,
+      "listPrice": 17.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw5ee372c1/large/1001335_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw5ee372c1/large/1001335_2.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Desfrute do Marshmallow MonteBello Mousse de Maracujá da Cacau Show: textura macia com sabor refrescante de maracujá, perfeito para uma pausa doce a qualquer hora."
+    },
+    {
+      "id": "2005737",
+      "sku": "2005737",
+      "name": "Caneca Floral 300ml",
+      "slug": "caneca-floral-300ml",
+      "url": "https://www.cacaushow.com.br/produto/caneca-floral-300ml-2005737.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Canecas",
+      "categoryPath": [
+        "Presentes",
+        "Canecas"
+      ],
+      "collection": "presentes/canecas",
+      "price": 29.99,
+      "listPrice": 31.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw27d5e81f/large/2005737_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw27d5e81f/large/2005737_1.png"
+      ],
+      "rating": 3.1,
+      "available": false,
+      "description": "Caneca com design delicado e acabamento refinado, ideal para tornar os momentos de pausa ainda mais especiais. Um presente cheio de carinho e elegncia."
+    },
+    {
+      "id": "1001907",
+      "sku": "1001907",
+      "name": "Sorvete LaNut Avelã 70g",
+      "slug": "sorvete-lanut-avela-70g",
+      "url": "https://www.cacaushow.com.br/produto/sorvete-lanut-avel%C3%A3-70g-1001907.html",
+      "brand": "LaNut",
+      "category": "Cafeteria",
+      "subcategory": "Sorvetes e Gelatos",
+      "categoryPath": [
+        "Cafeteria",
+        "Sorvetes e Gelatos"
+      ],
+      "collection": "cafeteria",
+      "price": 17.99,
+      "listPrice": 18.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa5c04601/large/1001907_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa5c04601/large/1001907_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb22d2d48/large/1001907_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw65a4a084/large/1001907_1t.png"
+      ],
+      "rating": 3.5,
+      "available": false,
+      "description": "Sorvete cremoso com sabor irresistível de avelã e chocolate. Refrescante e delicioso, perfeito para dias quentes. Aproveite e se delicie!"
+    },
+    {
+      "id": "1002627",
+      "sku": "1002627",
+      "name": "Caixa de Bombons Mini Show Bendito Cacao 108g",
+      "slug": "caixa-de-bombons-mini-show-bendito-cacao-108g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-mini-show-bendito-cacao-108g-1002627.html",
+      "brand": "Bendito Cacao",
+      "category": "Campanhas",
+      "subcategory": "Bendito Cacao",
+      "categoryPath": [
+        "Campanhas",
+        "Bendito Cacao"
+      ],
+      "collection": "presentes",
+      "price": 39.99,
+      "listPrice": 42.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw205b8a73/large/1002627_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw205b8a73/large/1002627_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwf6edef7c/large/1002627_1T.png"
+      ],
+      "rating": 3.5,
+      "available": true,
+      "description": "A Caixa de Bombons Mini Show Bendito Cacao tem bombons intensos feitos com cacau de alta qualidade. Perfeitos para quem ama chocolate puro e sofisticado."
+    },
+    {
+      "id": "1002913",
+      "sku": "1002913",
+      "name": "Drageado Bytes de Uva Passa 100g",
+      "slug": "drageado-bytes-de-uva-passa-100g",
+      "url": "https://www.cacaushow.com.br/produto/drageado-bytes-de-uva-passa-100g-1002913.html",
+      "brand": "Bytes",
+      "category": "Chocolate",
+      "subcategory": "Bolinhas de Chocolate",
+      "categoryPath": [
+        "Chocolate",
+        "Bolinhas de Chocolate"
+      ],
+      "collection": "chocolate/bolinhas-de-chocolate",
+      "price": 18.99,
+      "listPrice": 19.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8503a5a5/large/1002913_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8503a5a5/large/1002913_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw5c07dca2/large/1002913_1t.png"
+      ],
+      "rating": 4.3,
+      "available": true,
+      "description": "Saboreie o Drageado Bytes de Uva Passa da Cacau Show, o contraste perfeito entre uvas passas e chocolate ao leite, uma combinação deliciosa e surpreendente."
+    },
+    {
+      "id": "1003075",
+      "sku": "1003075",
+      "name": "Trufa Artesanal Grancherie Cereja ao Licor 30g",
+      "slug": "trufa-artesanal-grancherie-cereja-ao-licor-30g",
+      "url": "https://www.cacaushow.com.br/produto/trufa-artesanal-grancherie-cereja-ao-licor-30g-1003075.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate/trufas",
+      "price": 5.99,
+      "listPrice": 6.49,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwab38ac18/large/1003075_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwab38ac18/large/1003075_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw281c9a81/large/1003075_1t.png"
+      ],
+      "rating": 4.3,
+      "available": true,
+      "description": "A Trufa Artesanal Grancherie Cereja ao Licor é a combinação ideal para voc que deseja um toque de sofisticação no dia a dia, ótima para tornar momentos ainda mais especiais."
+    },
+    {
+      "id": "1003344",
+      "sku": "1003344",
+      "name": "Cookies 3 Chocolates Sortidos 140g",
+      "slug": "cookies-3-chocolates-sortidos-140g",
+      "url": "https://www.cacaushow.com.br/produto/cookies-3-chocolates-sortidos-140g-1003344.html",
+      "brand": "Cacau Show",
+      "category": "Biscoito",
+      "subcategory": "Cookies",
+      "categoryPath": [
+        "Biscoito",
+        "Cookies"
+      ],
+      "collection": "biscoito",
+      "price": 24.99,
+      "listPrice": 26.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1ce66fc4/large/1003344_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1ce66fc4/large/1003344_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwdb8e54b4/large/1003344_1t.png"
+      ],
+      "rating": 3.2,
+      "available": true,
+      "description": "Desfrute da crocncia e do sabor irresistível dos Cookies 3 Chocolates Sortidos, gotas de chocolate branco, intenso e sua base de chocolate ao leite. Irresistível!"
+    },
+    {
+      "id": "2002117",
+      "sku": "2002117",
+      "name": "Pelúcia Chocomonstros Agostinho G",
+      "slug": "pelucia-chocomonstros-agostinho-g",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcia-chocomonstros-agostinho-g-2002117.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Pelúcias e Ursinhos",
+      "categoryPath": [
+        "Presentes",
+        "Pelúcias e Ursinhos"
+      ],
+      "collection": "campanhas/infantis-cacau-show",
+      "price": 249.99,
+      "listPrice": null,
+      "discountPercentage": 0,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwafc0b48a/large/2002117_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwafc0b48a/large/2002117_1.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Conheça a Pelúcia Chocomonstros Agostinho G, uma companhia divertida e fofa da Cacau Show, perfeita para presentear, colecionar e abraçar."
+    },
+    {
+      "id": "2006838",
+      "sku": "2006838",
+      "name": "Hidratante Labial Beta Sabor Chocolate 9,5g",
+      "slug": "hidratante-labial-beta-sabor-chocolate-9-5g",
+      "url": "https://www.cacaushow.com.br/produto/hidratante-labial-beta-sabor-chocolate-9%2C5g-2006838.html",
+      "brand": "Cacau Show",
+      "category": "Lifestyle",
+      "subcategory": "Hidratante Labial",
+      "categoryPath": [
+        "Lifestyle",
+        "Hidratante Labial"
+      ],
+      "collection": "lifestyle",
+      "price": 21.99,
+      "listPrice": 23.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa2b682ed/large/2006838_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa2b682ed/large/2006838_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw76d5e6fe/large/2006838_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw43505dcd/large/2006838_3.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw719fb9d7/large/2006838_1T.png"
+      ],
+      "rating": 3.4,
+      "available": false,
+      "description": "Hidratante labial que hidrata e mantém os lábios macios. Produtos exclusivos de algumas lojas Cacau Show e redes parceiras."
+    },
+    {
+      "id": "1004078",
+      "sku": "1004078",
+      "name": "Tablete Bendito Cacao 55% Cacau com Coco e Café 100g",
+      "slug": "tablete-bendito-cacao-55-cacau-com-coco-e-cafe-100g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-bendito-cacao-55%25-cacau-com-coco-e-caf%C3%A9-100g-1004078.html",
+      "brand": "Cacau Show",
+      "category": "Campanhas",
+      "subcategory": "Bendito Cacao",
+      "categoryPath": [
+        "Campanhas",
+        "Bendito Cacao"
+      ],
+      "collection": "nossas-marcas/bendito-cacao",
+      "price": 27.99,
+      "listPrice": 29.99,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1758b4a8/large/1004078_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1758b4a8/large/1004078_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw824a193d/large/1004078_1T.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Barra de chocolate 55% cacau com coco e café, unindo a intensidade do cacau ao sabor marcante do café e do coco."
+    },
+    {
+      "id": "1002194",
+      "sku": "1002194",
+      "name": "Trufa laCreme Branco 13,5g",
+      "slug": "trufa-lacreme-branco-13-5g",
+      "url": "https://www.cacaushow.com.br/produto/trufa-lacreme-branco-13%2C5g-1002194.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate",
+      "price": 3.49,
+      "listPrice": 3.79,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw65f43784/large/1002194_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw65f43784/large/1002194_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd5aaba8a/large/1002194_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "A Trufa laCreme Branco derrete na boca com seu delicioso e irresistível chocolate branco. Conta com a qualidade e o sabor inconfundíveis da Cacau Show, encante-se!"
+    },
+    {
+      "id": "1002867",
+      "sku": "1002867",
+      "name": "Tablete Cookies'N Cream de Chocolate Branco 100g",
+      "slug": "tablete-cookies-n-cream-de-chocolate-branco-100g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-cookies%27n-cream-de-chocolate-branco-100g-1002867.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate/tabletes-e-barras",
+      "price": 17.99,
+      "listPrice": 19.29,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwcda9b58e/large/1002867_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwcda9b58e/large/1002867_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwf267da2d/large/1002867_1t.png"
+      ],
+      "rating": 3.1,
+      "available": true,
+      "description": "O Tablete Cookies'N Cream de Chocolate Branco com pedaços crocantes de cookies. Combinação deliciosa e perfeita para quem adora contrastes de texturas!"
+    },
+    {
+      "id": "1002623",
+      "sku": "1002623",
+      "name": "Caixa de Bombons Cubo ao Leite Chocomonstros 145g",
+      "slug": "caixa-de-bombons-cubo-ao-leite-chocomonstros-145g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-cubo-ao-leite-chocomonstros-145g-1002623.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "para-compartilhar/kits-e-presentes",
+      "price": 29.99,
+      "listPrice": 31.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwaeab338f/large/1002623_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwaeab338f/large/1002623_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd1d99072/large/1002623_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Desfrute da Caixa de Bombons Cubo ao Leite Chocomonstros da Cacau Show: bombons cremosos ao leite em uma embalagem divertida, perfeita para alegrar os pequenos!"
+    },
+    {
+      "id": "2005935",
+      "sku": "2005935",
+      "name": "Chaveiro de Fondue Cacau Show",
+      "slug": "chaveiro-de-fondue-cacau-show",
+      "url": "https://www.cacaushow.com.br/produto/chaveiro-de-fondue-cacau-show-2005935.html",
+      "brand": "Bendito Cacao",
+      "category": "Lifestyle",
+      "subcategory": "Chaveiros e Pins",
+      "categoryPath": [
+        "Lifestyle",
+        "Chaveiros e Pins"
+      ],
+      "collection": "lifestyle/uso-pessoal",
+      "price": 14.99,
+      "listPrice": 16.99,
+      "discountPercentage": 12,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw4ef0fac3/large/2005935_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw4ef0fac3/large/2005935_1.png"
+      ],
+      "rating": 3.1,
+      "available": true,
+      "description": "O Chaveiro Fondue Cacau Show é um acessório charmoso e exclusivo para transformar seus pertences com estilo. Feito em metal dourado."
+    },
+    {
+      "id": "1000690",
+      "sku": "1000690",
+      "name": "Caixa de Trufas laCreme ao Leite 225g",
+      "slug": "caixa-de-trufas-lacreme-ao-leite-225g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-trufas-lacreme-ao-leite-225g-1000690.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "nossas-marcas/lacreme",
+      "price": 79.99,
+      "listPrice": 84.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6ca5cf08/large/1000690_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6ca5cf08/large/1000690_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw67ee439c/large/1000690_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwbf33d675/large/1000690_1t.png"
+      ],
+      "rating": 4.3,
+      "available": false,
+      "description": "Conheça a Caixa de Trufas laCreme ao Leite, sofisticada e de sabor marcante com as trufas laCreme, perfeita para presentear e transformar qualquer momento em celebrações."
+    },
+    {
+      "id": "1001113",
+      "sku": "1001113",
+      "name": "Marshmallow MonteBello Mousse de Chocolate 90g",
+      "slug": "marshmallow-montebello-mousse-de-chocolate-90g",
+      "url": "https://www.cacaushow.com.br/produto/marshmallow-montebello-mousse-de-chocolate-90g-1001113.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Marshmallow",
+      "categoryPath": [
+        "Chocolate",
+        "Marshmallow"
+      ],
+      "collection": "chocolate/marshmallow",
+      "price": 16.99,
+      "listPrice": 17.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa3168787/large/1001113_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa3168787/large/1001113_2.png"
+      ],
+      "rating": 4.4,
+      "available": false,
+      "description": "Marshmallow MonteBello Mousse de Chocolate: doce leve e saboroso com textura aveludada. Opção perfeita para qualquer ocasião e para quem ama chocolate!"
+    },
+    {
+      "id": "1001201",
+      "sku": "1001201",
+      "name": "Waffle Belga Baunilha 70g",
+      "slug": "waffle-belga-baunilha-70g",
+      "url": "https://www.cacaushow.com.br/produto/waffle-belga-baunilha-70g-1001201.html",
+      "brand": "Cacau Show",
+      "category": "Cafeteria",
+      "subcategory": "Fondues e Sobremesas",
+      "categoryPath": [
+        "Cafeteria",
+        "Fondues e Sobremesas"
+      ],
+      "collection": "cafeteria",
+      "price": 11.99,
+      "listPrice": 12.99,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc098596f/large/1001201_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc098596f/large/1001201_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6bd6961a/large/1001201_1t.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Delicie-se com o Waffle Belga Baunilha da Cacau Show: crocante por fora e macio por dentro, com um sabor irresistível de baunilha. Perfeito para qualquer hora!"
+    },
+    {
+      "id": "1002768",
+      "sku": "1002768",
+      "name": "Caixa de Bombons Clássicos Sortidos 120g",
+      "slug": "caixa-de-bombons-classicos-sortidos-120g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-cl%C3%A1ssicos-sortidos-120g-1002768.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "presentes",
+      "price": 36.99,
+      "listPrice": 39.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9de2a6a8/large/1002768_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9de2a6a8/large/1002768_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw46819076/large/1002768_1T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8c694fad/large/1002768_2T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw66862b03/large/1002768_3T.png"
+      ],
+      "rating": 3.1,
+      "available": true,
+      "description": "A Caixa de Bombons Clássicos Sortidos oferece uma deliciosa variedade de sabores em uma embalagem sofisticada, ideal para presentear ou saborear!"
+    },
+    {
+      "id": "1003682",
+      "sku": "1003682",
+      "name": "Drageado Biscoiteria Speculoos 100g",
+      "slug": "drageado-biscoiteria-speculoos-100g",
+      "url": "https://www.cacaushow.com.br/produto/drageado-biscoiteria-speculoos-100g-1003682.html",
+      "brand": "Biscoiteria",
+      "category": "Chocolate",
+      "subcategory": "Bolinhas de Chocolate",
+      "categoryPath": [
+        "Chocolate",
+        "Bolinhas de Chocolate"
+      ],
+      "collection": "chocolate/bolinhas-de-chocolate",
+      "price": 18.99,
+      "listPrice": 19.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw64cb7b5a/large/1003682.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw64cb7b5a/large/1003682.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw36d2b5f4/large/1003682_2T.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Gota de biscoito caramelizado coberta com chocolate ao leite. Um sabor irresistível!"
+    },
+    {
+      "id": "1002896",
+      "sku": "1002896",
+      "name": "Trufa Artesanal ao Leite de Petit Gateau 30g",
+      "slug": "trufa-artesanal-ao-leite-de-petit-gateau-30g",
+      "url": "https://www.cacaushow.com.br/produto/trufa-artesanal-ao-leite-de-petit-gateau-30g-1002896.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate/trufas",
+      "price": 5.99,
+      "listPrice": 6.49,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7fe8de0a/large/1002896_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7fe8de0a/large/1002896_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw07e6235c/large/1002796_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "A Trufa Artesanal Petit Gateau é a combinação perfeita para voc que deseja um toque de sofisticação e sabor no dia a dia, além de muita cremosidade."
+    },
+    {
+      "id": "1003347",
+      "sku": "1003347",
+      "name": "Wafer Biscoiteria Coberto ao Leite 80g",
+      "slug": "wafer-biscoiteria-coberto-ao-leite-80g",
+      "url": "https://www.cacaushow.com.br/produto/wafer-biscoiteria-coberto-ao-leite-80g-1003347.html",
+      "brand": "Biscoiteria",
+      "category": "Biscoito",
+      "subcategory": "Wafer e Canudinhos",
+      "categoryPath": [
+        "Biscoito",
+        "Wafer e Canudinhos"
+      ],
+      "collection": "biscoito",
+      "price": 21.99,
+      "listPrice": 23.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9d0daf0d/large/1003347_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw9d0daf0d/large/1003347_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0bb48443/large/1003347_1t.png"
+      ],
+      "rating": 3.5,
+      "available": true,
+      "description": "Desfrute do Wafer Biscoiteria Coberto ao Leite da Cacau Show, com crocncia irresistível e chocolate ao leite. Perfeito para momentos de prazer e compartilhamento!"
+    },
+    {
+      "id": "2002125",
+      "sku": "2002125",
+      "name": "Pelúcia Chocomonstros Filó G",
+      "slug": "pelucia-chocomonstros-filo-g",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcia-chocomonstros-fil%C3%B3-g-2002125.html",
+      "brand": "Chocomonstros",
+      "category": "Presentes",
+      "subcategory": "Pelúcias e Ursinhos",
+      "categoryPath": [
+        "Presentes",
+        "Pelúcias e Ursinhos"
+      ],
+      "collection": "campanhas/infantis-cacau-show",
+      "price": 249.99,
+      "listPrice": null,
+      "discountPercentage": 0,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw888d10e4/large/2002125_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw888d10e4/large/2002125_1.png"
+      ],
+      "rating": 3.9,
+      "available": false,
+      "description": "Descubra a Pelúcia Chocomonstros Filó G, uma companhia fofa e divertida da Cacau Show, perfeita para presentear, colecionar e abraçar."
+    },
+    {
+      "id": "2006868",
+      "sku": "2006868",
+      "name": "Kit Impala Marrom com Esmalte e Gloss Labial",
+      "slug": "kit-impala-marrom-com-esmalte-e-gloss-labial",
+      "url": "https://www.cacaushow.com.br/produto/kit-impala-marrom-com-esmalte-e-gloss-labial-2006868.html",
+      "brand": "Cacau Show",
+      "category": "Lifestyle",
+      "subcategory": "Impala Cacau Show",
+      "categoryPath": [
+        "Lifestyle",
+        "Impala Cacau Show"
+      ],
+      "collection": "lifestyle",
+      "price": 36.99,
+      "listPrice": 38.49,
+      "discountPercentage": 4,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa6e1c002/large/2006868_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa6e1c002/large/2006868_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6eaa6d63/large/2006868_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0d54e98a/large/2006868_3.png"
+      ],
+      "rating": 3.7,
+      "available": false,
+      "description": "O Kit Impala Marrom com Esmalte e Gloss Labial reúne dois itens para sua rotina de beleza. Produto exclusivo disponível em lojas parceiras e perfumarias."
+    },
+    {
+      "id": "1004075",
+      "sku": "1004075",
+      "name": "Caixa de Tabletes Intensos Bendito Cacao 90g",
+      "slug": "caixa-de-tabletes-intensos-bendito-cacao-90g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-tabletes-intensos-bendito-cacao-90g-1004075.html",
+      "brand": "Cacau Show",
+      "category": "Campanhas",
+      "subcategory": "Bendito Cacao",
+      "categoryPath": [
+        "Campanhas",
+        "Bendito Cacao"
+      ],
+      "collection": "nossas-marcas/bendito-cacao",
+      "price": 36.99,
+      "listPrice": 39.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw08b7580c/large/1004075_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw08b7580c/large/1004075_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw56a00ecd/large/1004080_1T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw270c1936/large/1004075_1T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb4c9129c/large/1003829_1T.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Caixa com tabletes de chocolates 55%, 72% e 80% cacau. Uma experincia de degustação com sabores intensos, perfeita para presentear."
+    },
+    {
+      "id": "1002622",
+      "sku": "1002622",
+      "name": "Trufa Coco 30g",
+      "slug": "trufa-coco-30g",
+      "url": "https://www.cacaushow.com.br/produto/trufa-coco-30g-1002622.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate",
+      "price": 4.99,
+      "listPrice": 5.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwdfb1d0d1/large/1002622_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwdfb1d0d1/large/1002622_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw745bcdf2/large/1002622_2T.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Experimente a combinação perfeita de chocolate ao leite de alta qualidade com recheio cremoso sabor coco. A Trufa de Coco irá encantar seu paladar!"
+    },
+    {
+      "id": "1002880",
+      "sku": "1002880",
+      "name": "Tablete Dreams Mil-Folhas 130g",
+      "slug": "tablete-dreams-mil-folhas-130g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-dreams-mil-folhas-130g-1002880.html",
+      "brand": "Dreams",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate/tabletes-e-barras",
+      "price": 24.99,
+      "listPrice": 26.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8274c9e3/large/1002880_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8274c9e3/large/1002880_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw827b7063/large/1002880_3T.png"
+      ],
+      "rating": 4.6,
+      "available": true,
+      "description": "O Tablete Dreams Mil-Folhas é a combinação perfeita de chocolate ao leite e a crocncia de mil-folhas para momentos especiais!"
+    },
+    {
+      "id": "1001688",
+      "sku": "1001688",
+      "name": "Caixa de Bombons Cacau Show Sortidos P 95g",
+      "slug": "caixa-de-bombons-cacau-show-sortidos-p-95g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-cacau-show-sortidos-p-95g-1001688.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "para-compartilhar/kits-e-presentes",
+      "price": 44.99,
+      "listPrice": 49.99,
+      "discountPercentage": 10,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwdf8cca45/large/1001688_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwdf8cca45/large/1001688_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw37307494/large/1001688_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw28f5a04e/large/1001688_1t.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw99f075fb/large/1001688_2t.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwba21242d/large/1001688_3t.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw2759e765/large/1001688_4t.png"
+      ],
+      "rating": 3.1,
+      "available": false,
+      "description": "Descubra a variedade de sabores da Caixa de Bombons Cacau Show Sortidos P, com uma seleção especial de bombons que combinam texturas e recheios irresistíveis."
+    },
+    {
+      "id": "2005931",
+      "sku": "2005931",
+      "name": "Pin de Morango com Chocolate Cacau Show",
+      "slug": "pin-de-morango-com-chocolate-cacau-show",
+      "url": "https://www.cacaushow.com.br/produto/pin-de-morango-com-chocolate-cacau-show-2005931.html",
+      "brand": "Cacau Show",
+      "category": "Lifestyle",
+      "subcategory": null,
+      "categoryPath": [
+        "Lifestyle"
+      ],
+      "collection": "lifestyle/uso-pessoal",
+      "price": 9.99,
+      "listPrice": 11.99,
+      "discountPercentage": 17,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw2c21bf2f/large/2005931_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw2c21bf2f/large/2005931_1.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "O Pin de Morango com Chocolate Cacau Show combina charme e doçura em metal dourado. Um acessório elegante e divertido para personalizar."
+    },
+    {
+      "id": "1003009",
+      "sku": "1003009",
+      "name": "Caixa de Bombons Mini Show Sortido Amor 108g",
+      "slug": "caixa-de-bombons-mini-show-sortido-amor-108g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-mini-show-sortido-amor-108g-1003009.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "nossas-marcas/lacreme",
+      "price": 39.99,
+      "listPrice": 42.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw826fbc1c/large/1003009_3.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw826fbc1c/large/1003009_3.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb55281e2/large/1003009_6.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwf86bf2d1/large/1003009_3t.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw78e14aa3/large/1003009_4t.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Presenteie com a Caixa de Bombons Mini Show Sortido Amor, com bombons laCreme sortidos nos sabores trufa ao leite e trufa branca."
+    },
+    {
+      "id": "1002836",
+      "sku": "1002836",
+      "name": "Sorvete Dreams Torta de Morango 70g",
+      "slug": "sorvete-dreams-torta-de-morango-70g",
+      "url": "https://www.cacaushow.com.br/produto/sorvete-dreams-torta-de-morango-70g-1002836.html",
+      "brand": "Dreams",
+      "category": "Cafeteria",
+      "subcategory": "Sorvetes e Gelatos",
+      "categoryPath": [
+        "Cafeteria",
+        "Sorvetes e Gelatos"
+      ],
+      "collection": "cafeteria",
+      "price": 17.99,
+      "listPrice": 18.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6b1f44c8/large/1002836_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6b1f44c8/large/1002836_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwad4a0fce/large/1002836_1t.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "Delicie-se com o Sorvete Dreams Torta de Morango da Cacau Show! Uma experincia cremosa e frutada que traz o sabor da torta de morango, que ficará na memória!"
+    },
+    {
+      "id": "1003980",
+      "sku": "1003980",
+      "name": "Caixa de Bombons laCreme Mini Show Pistache 108g",
+      "slug": "caixa-de-bombons-lacreme-mini-show-pistache-108g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-lacreme-mini-show-pistache-108g-1003980.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Bombons",
+      "categoryPath": [
+        "Chocolate",
+        "Bombons"
+      ],
+      "collection": "presentes",
+      "price": 39.99,
+      "listPrice": 42.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw4f437b2c/large/1003980_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw4f437b2c/large/1003980_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw44f587b3/large/1003980_1T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc4ad8d06/large/1003980_2T.png"
+      ],
+      "rating": 3.8,
+      "available": true,
+      "description": "Bombons de chocolate ao leite e branco com recheio de creme de pistache, perfeitos para presentear e tornar um momento especial."
+    },
+    {
+      "id": "1004065",
+      "sku": "1004065",
+      "name": "Drageado Bytes Alemanha Strudel de Maçã 100g",
+      "slug": "drageado-bytes-alemanha-strudel-de-maca-100g",
+      "url": "https://www.cacaushow.com.br/produto/drageado-bytes-alemanha-strudel-de-ma%C3%A7%C3%A3-100g-1004065.html",
+      "brand": "Cacau Show",
+      "category": "Campanhas",
+      "subcategory": "Bytes da Copa",
+      "categoryPath": [
+        "Campanhas",
+        "Bytes da Copa"
+      ],
+      "collection": "chocolate/bolinhas-de-chocolate",
+      "price": 18.99,
+      "listPrice": 19.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw928b9f58/large/1004065_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw928b9f58/large/1004065_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw833fc50c/large/1004065_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd041f1f2/large/1004065_1T.png"
+      ],
+      "rating": 4.3,
+      "available": true,
+      "description": "O Drageado Bytes Alemanha Strudel de Maçã combina o sabor clássico do strudel de maçã com uma delicada camada de chocolate ao leite."
+    },
+    {
+      "id": "1001698",
+      "sku": "1001698",
+      "name": "Cofre Cremilda Trufas laCreme Kids ao Leite 150g",
+      "slug": "cofre-cremilda-trufas-lacreme-kids-ao-leite-150g",
+      "url": "https://www.cacaushow.com.br/produto/cofre-cremilda-trufas-lacreme-kids-ao-leite-150g-1001698.html",
+      "brand": "laCreme",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "chocolate/trufas",
+      "price": 54.99,
+      "listPrice": 59.99,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1799e887/large/1001698_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1799e887/large/1001698_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw10c398b0/large/1001698_1t.png"
+      ],
+      "rating": 4.2,
+      "available": true,
+      "description": "Conheça o Cofre Cremilda Trufas laCreme Kids ao Leite da Cacau Show, trufas deliciosas em um lindo cofrinho da nossa vaquinha Cremilda, um encanto!"
+    },
+    {
+      "id": "1003183",
+      "sku": "1003183",
+      "name": "Wafer Biscoiteria Pistache 80g",
+      "slug": "wafer-biscoiteria-pistache-80g",
+      "url": "https://www.cacaushow.com.br/produto/wafer-biscoiteria-pistache-80g-1003183.html",
+      "brand": "Cacau Show",
+      "category": "Biscoito",
+      "subcategory": "Wafer e Canudinhos",
+      "categoryPath": [
+        "Biscoito",
+        "Wafer e Canudinhos"
+      ],
+      "collection": "biscoito",
+      "price": 19.99,
+      "listPrice": 21.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb63e54b8/large/1003183_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb63e54b8/large/1003183_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dweb75ee42/large/1003183_1t.png"
+      ],
+      "rating": 4.3,
+      "available": true,
+      "description": "Descubra o Wafer Biscoiteria Pistache da Cacau Show, crocncia e leveza combinam com o delicioso recheio cremoso de pistache, proporcionando um momento único!"
+    },
+    {
+      "id": "2002128",
+      "sku": "2002128",
+      "name": "Pelúcia Chocomonstros Margô G",
+      "slug": "pelucia-chocomonstros-marg-g",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcia-chocomonstros-marg%C3%B4-g-2002128.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Pelúcias e Ursinhos",
+      "categoryPath": [
+        "Presentes",
+        "Pelúcias e Ursinhos"
+      ],
+      "collection": "campanhas/infantis-cacau-show",
+      "price": 249.99,
+      "listPrice": null,
+      "discountPercentage": 0,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa7b45d6c/large/2002128_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa7b45d6c/large/2002128_1.png"
+      ],
+      "rating": 3.2,
+      "available": true,
+      "description": "Descubra a Pelúcia Chocomonstros Marg G, uma companhia fofa e divertida da Cacau Show, perfeito para presentear, colecionar e abraçar."
+    },
+    {
+      "id": "2006351",
+      "sku": "2006351",
+      "name": "Copo Viagem Bege Cacau Show",
+      "slug": "copo-viagem-bege-cacau-show",
+      "url": "https://www.cacaushow.com.br/produto/copo-viagem-bege-cacau-show-2006351.html",
+      "brand": "Cacau Show",
+      "category": "Campanhas",
+      "subcategory": "Dia dos Namorados",
+      "categoryPath": [
+        "Campanhas",
+        "Dia dos Namorados"
+      ],
+      "collection": "lifestyle",
+      "price": 79.99,
+      "listPrice": 84.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwf601649d/large/2006351_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwf601649d/large/2006351_1.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "O Copo Viagem Calda Cacau Show conta com um acabamento em tom marrom acetinado e uma calda 3D em silicone, trazendo um toque único para o seu dia a dia."
+    },
+    {
+      "id": "1004082",
+      "sku": "1004082",
+      "name": "Tablete de Chocolate Bendito Cacao Dark Milk 30g",
+      "slug": "tablete-de-chocolate-bendito-cacao-dark-milk-30g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-de-chocolate-bendito-cacao-dark-milk-30g-1004082.html",
+      "brand": "Cacau Show",
+      "category": "Campanhas",
+      "subcategory": "Bendito Cacao",
+      "categoryPath": [
+        "Campanhas",
+        "Bendito Cacao"
+      ],
+      "collection": "nossas-marcas/bendito-cacao",
+      "price": 11.99,
+      "listPrice": 12.99,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwce55a5f8/large/1004082_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwce55a5f8/large/1004082_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw626e3479/large/1003060_1t.png"
+      ],
+      "rating": 3.2,
+      "available": true,
+      "description": "Barra de chocolate Dark Milk 55% cacau, que combina a intensidade do cacau com a cremosidade do leite, resultando em um sabor equilibrado e marcante."
+    },
+    {
+      "id": "1002724",
+      "sku": "1002724",
+      "name": "Trufa ao Leite de Paçoca 30g",
+      "slug": "trufa-ao-leite-de-pacoca-30g",
+      "url": "https://www.cacaushow.com.br/produto/trufa-ao-leite-de-pa%C3%A7oca-30g-1002724.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate",
+      "price": 4.99,
+      "listPrice": 5.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb64959aa/large/1002724_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb64959aa/large/1002724_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw05969094/large/1002724_2T.png"
+      ],
+      "rating": 4.3,
+      "available": true,
+      "description": "Para quem deseja uma dose de leveza e muito sabor durante o dia, a Trufa ao Leite de Paçoca é perfeita, com sua textura macia e recheio cremoso, irá encantar o paladar!"
+    },
+    {
+      "id": "1002789",
+      "sku": "1002789",
+      "name": "Tablete laCreme Zero Adição de Açúcar 100g",
+      "slug": "tablete-lacreme-zero-adicao-de-acucar-100g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-lacreme-zero-adi%C3%A7%C3%A3o-de-a%C3%A7%C3%BAcar-100g-1002789.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate/tabletes-e-barras",
+      "price": 24.99,
+      "listPrice": 26.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwba91dcb5/large/1002789_3.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwba91dcb5/large/1002789_3.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw7d0ead1d/large/1002789_2T.png"
+      ],
+      "rating": 3.4,
+      "available": false,
+      "description": "Aprecie o Tablete laCreme Zero Adição de Açúcar, com textura cremosa e sabor irresistível. Uma opção perfeita para saborear a qualquer momento."
+    },
+    {
+      "id": "1003212",
+      "sku": "1003212",
+      "name": "Sorvete LaNut Pistache 70g",
+      "slug": "sorvete-lanut-pistache-70g",
+      "url": "https://www.cacaushow.com.br/produto/sorvete-lanut-pistache-70g-1003212.html",
+      "brand": "LaNut",
+      "category": "Cafeteria",
+      "subcategory": "Sorvetes e Gelatos",
+      "categoryPath": [
+        "Cafeteria",
+        "Sorvetes e Gelatos"
+      ],
+      "collection": "cafeteria",
+      "price": 19.99,
+      "listPrice": 20.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw88045f7f/large/1003212_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw88045f7f/large/1003212_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw89df74c3/large/1003212_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw391bdc6c/large/1003212_3.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw61d101b5/large/1003212_1t.png"
+      ],
+      "rating": 3.6,
+      "available": false,
+      "description": "Descubra o Sorvete LaNut Pistache, uma explosão de sabor e cremosidade, ideal para momentos de prazer e suavidade para se refrescar durante o dia."
+    },
+    {
+      "id": "1003111",
+      "sku": "1003111",
+      "name": "Caixa de Bombons Sortidos 240g",
+      "slug": "caixa-de-bombons-sortidos-240g",
+      "url": "https://www.cacaushow.com.br/produto/caixa-de-bombons-sortidos-240g-1003111.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "presentes",
+      "price": 69.99,
+      "listPrice": 74.99,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwfba2ce18/large/1003111_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwfba2ce18/large/1003111_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw92d71092/large/1003111_1T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw06a0a8ae/large/1003111_2T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwed72b68b/large/1003111_3T.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb1c477f1/large/1003111_4T.png"
+      ],
+      "rating": 4.4,
+      "available": true,
+      "description": "Uma seleção irresistível de bombons nos sabores chocolate branco, chocolate 55% e chocolate ao leite, com recheio de trufa."
+    },
+    {
+      "id": "1002441",
+      "sku": "1002441",
+      "name": "Drageados Clássicos ao Leite com Licor 150g",
+      "slug": "drageados-classicos-ao-leite-com-licor-150g",
+      "url": "https://www.cacaushow.com.br/produto/drageados-cl%C3%A1ssicos-ao-leite-com-licor-150g-1002441.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Bolinhas de Chocolate",
+      "categoryPath": [
+        "Chocolate",
+        "Bolinhas de Chocolate"
+      ],
+      "collection": "chocolate/bolinhas-de-chocolate",
+      "price": 29.99,
+      "listPrice": 31.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0984d398/large/1002441_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0984d398/large/1002441_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw6c386415/large/1002441_1t.png"
+      ],
+      "rating": 3.9,
+      "available": true,
+      "description": "Descubra os Drageados Clássicos ao Leite com Licor, uma combinação de chocolate ao leite crocante com licor, ideal para encantar o paladar e surpreender!"
+    },
+    {
+      "id": "1004176",
+      "sku": "1004176",
+      "name": "Trufa de Chocolate laCreme 55% Cacau",
+      "slug": "trufa-de-chocolate-lacreme-55-cacau",
+      "url": "https://www.cacaushow.com.br/produto/trufa-de-chocolate-lacreme-55%25-cacau-1004176.html",
+      "brand": "laCreme",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate/trufas",
+      "price": 4.99,
+      "listPrice": 5.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw75dac592/large/1004176_3.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw75dac592/large/1004176_3.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwf1429628/large/1002648_1t.png"
+      ],
+      "rating": 4.6,
+      "available": false,
+      "description": "Conheça a Trufa de Chocolate laCreme 55% Cacau, uma opção para deixar o seu dia a dia ainda mais intenso, com muito sabor e cremosidade. Um encanto de trufa!"
+    },
+    {
+      "id": "1003448",
+      "sku": "1003448",
+      "name": "Biscoito ao Leite Harry Potter 100g",
+      "slug": "biscoito-ao-leite-harry-potter-100g",
+      "url": "https://www.cacaushow.com.br/produto/biscoito-ao-leite-harry-potter-100g-1003448.html",
+      "brand": "Cacau Show",
+      "category": "Biscoito",
+      "subcategory": "Biscoito com Chocolate",
+      "categoryPath": [
+        "Biscoito",
+        "Biscoito com Chocolate"
+      ],
+      "collection": "biscoito",
+      "price": 17.99,
+      "listPrice": 19.29,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb1dc3f08/large/1003448_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb1dc3f08/large/1003448_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0550786a/large/1003448_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw1ffb9ccf/large/1003448_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Desfrute do Biscoito ao Leite Harry Potter, uma combinação deliciosa de biscoito crocante e o chocolate ao leite da Cacau Show."
+    },
+    {
+      "id": "2005648",
+      "sku": "2005648",
+      "name": "Pelúcia Ursinhos Carinhosos Ursinho Zangadinho",
+      "slug": "pelucia-ursinhos-carinhosos-ursinho-zangadinho",
+      "url": "https://www.cacaushow.com.br/produto/pel%C3%BAcia-ursinhos-carinhosos-ursinho-zangadinho-2005648.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Pelúcias e Ursinhos",
+      "categoryPath": [
+        "Presentes",
+        "Pelúcias e Ursinhos"
+      ],
+      "collection": "campanhas/infantis-cacau-show",
+      "price": 99.99,
+      "listPrice": 109.99,
+      "discountPercentage": 9,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw74b70062/large/2005648_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw74b70062/large/2005648_1.png"
+      ],
+      "rating": 4.2,
+      "available": false,
+      "description": "Pelúcia Ursinho Zangadinho dos Ursinhos Carinhosos, um presente adorável. Colecione e encante."
+    },
+    {
+      "id": "2006853",
+      "sku": "2006853",
+      "name": "Hidratante Labial Beta Sabor Pistache 9,5g",
+      "slug": "hidratante-labial-beta-sabor-pistache-9-5g",
+      "url": "https://www.cacaushow.com.br/produto/hidratante-labial-beta-sabor-pistache-9%2C5g-2006853.html",
+      "brand": "Cacau Show",
+      "category": "Lifestyle",
+      "subcategory": "Hidratante Labial",
+      "categoryPath": [
+        "Lifestyle",
+        "Hidratante Labial"
+      ],
+      "collection": "lifestyle",
+      "price": 21.99,
+      "listPrice": 23.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc4dd0ee5/large/2006853_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc4dd0ee5/large/2006853_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb78656f1/large/2006853_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0a1567b8/large/2006853_3.png"
+      ],
+      "rating": 3.1,
+      "available": false,
+      "description": "Hidrata e cuida dos lábios enquanto proporciona o delicioso sabor de pistache para tornar o dia ainda mais especial. Produto exclusivo das lojas físicas e redes parceiras."
+    },
+    {
+      "id": "1004080",
+      "sku": "1004080",
+      "name": "Tablete de Chocolate Intenso Bendito Cacao 80% 30g",
+      "slug": "tablete-de-chocolate-intenso-bendito-cacao-80-30g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-de-chocolate-intenso-bendito-cacao-80%25-30g-1004080.html",
+      "brand": "Bendito Cacao",
+      "category": "Campanhas",
+      "subcategory": "Bendito Cacao",
+      "categoryPath": [
+        "Campanhas",
+        "Bendito Cacao"
+      ],
+      "collection": "nossas-marcas/bendito-cacao",
+      "price": 11.99,
+      "listPrice": 12.99,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw2bbb8932/large/1004080_2.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw2bbb8932/large/1004080_2.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw56a00ecd/large/1004080_1T.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Barra de chocolate 80% cacau, com sabor intenso e marcante. Ideal para quem aprecia chocolates com alta concentração de cacau em um formato prático."
+    },
+    {
+      "id": "1002604",
+      "sku": "1002604",
+      "name": "Trufa ao Leite de Morango 30g",
+      "slug": "trufa-ao-leite-de-morango-30g",
+      "url": "https://www.cacaushow.com.br/produto/trufa-ao-leite-de-morango-30g-1002604.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate",
+      "price": 4.99,
+      "listPrice": 5.29,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd99544dd/large/1002604_3.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd99544dd/large/1002604_3.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe9e01b39/large/1002604_2T.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Delicadeza e sabor em uma trufa irresistível, a Trufa de Morango se encaixa em qualquer ocasião, seja como uma lembrança para alguém especial ou para um mimo no seu dia."
+    },
+    {
+      "id": "1003103",
+      "sku": "1003103",
+      "name": "Tablete Dreams Torta de Morango 130g",
+      "slug": "tablete-dreams-torta-de-morango-130g",
+      "url": "https://www.cacaushow.com.br/produto/tablete-dreams-torta-de-morango-130g-1003103.html",
+      "brand": "Cacau Show",
+      "category": "Chocolate",
+      "subcategory": "Tabletes e Barras",
+      "categoryPath": [
+        "Chocolate",
+        "Tabletes e Barras"
+      ],
+      "collection": "chocolate/tabletes-e-barras",
+      "price": 24.99,
+      "listPrice": 26.49,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw742ec92e/large/1002883_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw742ec92e/large/1002883_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc0ef5c5f/large/1002883_1t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "O Tablete Dreams Torta de Morango conta com um chocolate ao leite com recheio de torta de morango, uma combinação irresistível e perfeita para qualquer ocasião!"
+    },
+    {
+      "id": "1002934",
+      "sku": "1002934",
+      "name": "Mousse Bendito Cacao de Chocolate Intenso 110g",
+      "slug": "mousse-bendito-cacao-de-chocolate-intenso-110g",
+      "url": "https://www.cacaushow.com.br/produto/mousse-bendito-cacao-de-chocolate-intenso-110g-1002934.html",
+      "brand": "Bendito Cacao",
+      "category": "Cafeteria",
+      "subcategory": "Fondues e Sobremesas",
+      "categoryPath": [
+        "Cafeteria",
+        "Fondues e Sobremesas"
+      ],
+      "collection": "cafeteria",
+      "price": 17.99,
+      "listPrice": 19.29,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw4b4300c0/large/1002934_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw4b4300c0/large/1002934_1.png"
+      ],
+      "rating": 4.6,
+      "available": false,
+      "description": "Mousse Bendito Cacao de Chocolate Intenso: cremosidade e sabor intenso do chocolate 70% cacau, uma experincia irresistível."
+    },
+    {
+      "id": "1001474",
+      "sku": "1001474",
+      "name": "Bombons Preciosidades Sortidos 360g",
+      "slug": "bombons-preciosidades-sortidos-360g",
+      "url": "https://www.cacaushow.com.br/produto/bombons-preciosidades-sortidos-360g-1001474.html",
+      "brand": "Cacau Show",
+      "category": "Presentes",
+      "subcategory": "Presentes",
+      "categoryPath": [
+        "Presentes",
+        "Presentes"
+      ],
+      "collection": "presentes",
+      "price": 79.99,
+      "listPrice": 84.99,
+      "discountPercentage": 6,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw95d7def0/large/1001474_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw95d7def0/large/1001474_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw504c567a/large/1001474_1t.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw585cee24/large/1001474_2t.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw51f1d6bb/large/1001474_3t.png"
+      ],
+      "rating": 5,
+      "available": true,
+      "description": "Os Bombons Preciosidades Sortidos da Cacau Show oferecem uma experincia única com sabores variados e texturas, perfeitos para momentos especiais e presentes."
+    },
+    {
+      "id": "1004057",
+      "sku": "1004057",
+      "name": "Drageado Bytes de Banoffe Inglaterra 100g",
+      "slug": "drageado-bytes-de-banoffe-inglaterra-100g",
+      "url": "https://www.cacaushow.com.br/produto/drageado-bytes-de-banoffe-inglaterra-100g-1004057.html",
+      "brand": "Cacau Show",
+      "category": "Campanhas",
+      "subcategory": "Bytes da Copa",
+      "categoryPath": [
+        "Campanhas",
+        "Bytes da Copa"
+      ],
+      "collection": "chocolate/bolinhas-de-chocolate",
+      "price": 18.99,
+      "listPrice": 19.99,
+      "discountPercentage": 5,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dweeff2df0/large/1004057_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dweeff2df0/large/1004057_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd1e4899d/large/1004057_1T.png"
+      ],
+      "rating": 5,
+      "available": false,
+      "description": "O Drageado Bytes Banoffe Inglaterra combina o sabor irresistível de banoffe com uma deliciosa camada de chocolate gold, proporcionando uma experincia cremosa."
+    },
+    {
+      "id": "1004191",
+      "sku": "1004191",
+      "name": "Trufa Dreams ao Leite Marula 30g",
+      "slug": "trufa-dreams-ao-leite-marula-30g",
+      "url": "https://www.cacaushow.com.br/produto/trufa-dreams-ao-leite-marula-30g-1004191.html",
+      "brand": "Dreams",
+      "category": "Chocolate",
+      "subcategory": "Trufas",
+      "categoryPath": [
+        "Chocolate",
+        "Trufas"
+      ],
+      "collection": "chocolate/trufas",
+      "price": 5.99,
+      "listPrice": 6.49,
+      "discountPercentage": 8,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw60c34f80/large/1004191_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw60c34f80/large/1004191_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwad708c49/large/1003138_1t.png"
+      ],
+      "rating": 4.3,
+      "available": false,
+      "description": "Trufa de chocolate com recheio cremoso sabor marula, trazendo uma combinação envolvente e sofisticada."
+    },
+    {
+      "id": "1003087",
+      "sku": "1003087",
+      "name": "Cookies com Gotas ao Leite 120g",
+      "slug": "cookies-com-gotas-ao-leite-120g",
+      "url": "https://www.cacaushow.com.br/produto/cookies-com-gotas-ao-leite-120g-1003087.html",
+      "brand": "Cacau Show",
+      "category": "Biscoito",
+      "subcategory": "Cookies",
+      "categoryPath": [
+        "Biscoito",
+        "Cookies"
+      ],
+      "collection": "biscoito",
+      "price": 16.99,
+      "listPrice": 18.29,
+      "discountPercentage": 7,
+      "image": "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd24884ad/large/1003087_1.png",
+      "images": [
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwd24884ad/large/1003087_1.png",
+        "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc0eed480/large/1003087_1t.png"
+      ],
+      "rating": 4.6,
+      "available": false,
+      "description": "Descubra o Cookies com Gotas ao Leite da Cacau Show, uma deliciosa combinação de crocncia e chocolate. Ótimos para seu lanche da tarde e para compartilhar com os amigos."
+    }
+  ]
+}
